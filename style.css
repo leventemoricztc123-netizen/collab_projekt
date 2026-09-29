@@ -67,7 +67,9 @@ h2 {
     margin-top: 30px;
 }
 
-.funkciok {
-
+.card {
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
 }
 
