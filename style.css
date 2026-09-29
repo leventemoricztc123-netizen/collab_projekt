@@ -49,7 +49,6 @@ nav a:hover {
 }
 
 .button {
-    display: inline-block;
     background-color: #f4b942;
     color: #222;
     padding: 10px 20px;
