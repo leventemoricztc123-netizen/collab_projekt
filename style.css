@@ -9,8 +9,7 @@ fk {
 }
 
 header {
-    background-color: #f4e9cd;
-    color: white;
+    font-weight: bold;
     align-items: center;
     padding: 20px;
     justify-content: space-between;
