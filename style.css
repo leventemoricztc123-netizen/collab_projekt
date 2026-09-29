@@ -1,10 +1,15 @@
+* {
+    text-align: center;
+}
+
+
 body {
     margin: 0;
     font-family: Arial;
     color: #222;
 }
 
-fk {
+.fk {
     font-weight: bold;
 }
 
