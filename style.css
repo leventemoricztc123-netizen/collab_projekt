@@ -63,6 +63,9 @@ nav a:hover {
     border-radius: 6px;
     text-decoration: none;
     font-weight: bold;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .button:hover {
