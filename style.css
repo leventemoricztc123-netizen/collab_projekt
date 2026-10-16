@@ -144,3 +144,10 @@ footer .footer-container {
     align-items: flex-start;
     gap: 30px;
 }
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
